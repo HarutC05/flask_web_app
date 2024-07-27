@@ -1,0 +1,6 @@
+    - Used Flask and became familiar with its libraries and uses for various purposes throughout 
+    - How to create a website with an IP address
+    - How to .route( ) or create URLs to different pages and add their features for each page
+    - Defined and registered blueprints to their assigned routes
+    - Used Jinja templating language to integrate python code with html
+    - I used Bootstrap (CSS framework) to structure my HTML code
